@@ -1,0 +1,101 @@
+ID	Category	Sub Category	English	Hindi
+ast-201	Movies	Trailer	Hey Siri, Play Bahubali Trailer.	अरे सिरी, बाहुबली का अनुयान चलाओ।
+ast-202	Movies	Trailer	Hey Siri, Play 3 Idiots Trailer.	अरे सिरी, थ्री इडियट्स का अनुयान चलाओ।
+ast-203	Movies	Trailer	Hey Siri, Play Drishyam Trailer.	अरे सिरी दृश्यम का अनुयान चलाओ।
+ast-204	Movies	Trailer	Hey Siri, Play Barfi Trailer.	अरे सिरी बर्फी का अनुयान चलाओ।
+ast-205	Movies	Trailer	Hey Siri, Play PK Trailer.	अरे सिरी  पी के का अनुयान चलाओ।
+ast-206	Movies	Trailer	Hey Siri, Play Pink movie Trailer.	अरे सिरी  पिंक का अनुयान चलाओ।
+ast-207	Movies	Trailer	Hey Siri, Play Ghajini movie Trailer.	अरे सिरी  गजनी का अनुयान चलाओ।
+ast-208	Movies	Trailer	Hey Alexa, Show Best Tollywood trailers of 2021.	अरे एलेक्सा, 2021 के सर्वश्रेष्ठ टॉलीवुड अनुयान  दिखाओ।
+ast-209	Movies	Trailer	Hey Alexa, Show Best Hollywood trailers of 2021.	अरे एलेक्सा, 2021 के सर्वश्रेष्ठ हॉलीवुड अनुयान  दिखाओ।
+ast-210	Movies	Trailer	Hey Alexa, Show Best Bollywood trailers of 2021.	अरे एलेक्सा, 2021 के सर्वश्रेष्ठ बॉलीवुड अनुयान  दिखाओ।
+ast-211	Movies	Trailer	Hey Alexa, Play Fast And Furious 9 Trailer.	अरे एलेक्सा, प्ले फास्ट एंड फ्यूरियस 9 का अनुयान चलाओ।
+ast-212	Movies	Trailer	Hey Siri,  Play Tom and Jerry Trailer.	अरे सिरी, टॉम एंड जेरी का अनुयान चलाओ।
+ast-213	Movies	Trailer	Hey Siri, Play Sherni trailer.	अरे सिरी, शेरनी का अनुयान चलाओ।
+ast-214	Movies	Trailer	Hey Alexa, Play Tenet Trailer.	अरे सिरी, टेनेट  का अनुयान चलाओ।
+ast-215	Movies	Cartoons	Play Chota Bheem and Throne of Bali.	छोटा भीम और बाली का सिंहासन चलाओ।
+ast-216	Movies	Cartoons	Play Jurrasic Park Trailer.	जुरासिक पार्क का अनुयान  चलाएं।
+ast-217	Movies	Cartoons	Play Spider Man 2.	स्पाइडर मैन 2 खेलें।
+ast-218	Movies	Cartoons	Play Alvin and the chipmunks songs.	एल्विन और चिपमंक्स के गाने बजाएं।
+ast-219	Movies	Cartoons	Play Minions Movie.	मिनियन चलचित्र चलाओ।
+ast-220	Movies	Cartoons	Play Harry Potter 7 songs.	हैरी पॉटर 7 के गाने बजाएं।
+ast-221	Movies	Cartoons	Play Doraemon Title Song.	डोरेमोन का शीर्षक गीत बजाएं।
+ast-222	Movies	Cartoons	Show Mr.Bean Episodes.	 मिस्टर बीन के वृतान्त दिखाएं।
+ast-223	Movies	Cartoons	Play Noddy Title Song.	नोड्य का शीर्षक गीत बजाएं।
+ast-224	Movies	Cartoons	Play Shinchan Title song.	शिनचैन  का शीर्षक गीत बजाएं।
+ast-225	Movies	Music	Play Kaun Tujhe from M S Dhoni.	 म स धोनी से कौन तुझे बजाएं।
+ast-226	Movies	Music	Play Kairiyat Pucho by Arijit.	अरिजीत द्वारा गाया गया खैरियत  पूछें बजाएं।
+ast-227	Movies	Music	Play Ik Vaari aa  from Raabta.	राब्ता से इक वारी आ बजाएं।
+ast-228	Movies	Music	Play Dil Bechara Songs.	दिल बेचारा के गाने बजाएं।
+ast-229	Movies	Music	Play Tum hi ho By Arijit.	अरिजीत द्वारा गाया गया तुम ही हो बजाएं।
+ast-230	QA	Movie	What is your favourite Movie?	आपकी पसंदीदा चलचित्र  कौन सी है?
+ast-231	QA	Movie	Who is the director of Bahubali?	बाहुबली के निर्देशक कौन हैं?
+ast-232	QA	Movie	Who is the hero of Jathiratnalu?	जथिरत्नालु का नायक कौन है?
+ast-233	QA	Movie	Who is the Actress in Maharshi Movie?	महर्षि चलचित्र में अभिनेत्री कौन है?
+ast-234	QA	Movie	Who is the Director of Arjun Reddy?	अर्जुन रेड्डी के निदेशक कौन हैं?
+ast-235	QA	Movie	What is the genre of KGF movie?	केजीएफ चलचित्र की शैली क्या है?
+ast-236	QA	Movie	Who is the child artist in Jersey Movie?	जर्सी चलचित्र में बाल कलाकार कौन है?
+ast-237	QA	Movie	Who is the director of Saaho?	साहो के निर्देशक कौन हैं?
+ast-238	QA	Movie	What is the name of Actress in Maharshi Movie?	महर्षि चलचित्र में अभिनेत्री का नाम  क्या है?
+ast-239	QA	Movie	What is the genre of F2 movie?	F2 चलचित्र की शैली क्या है?
+ast-240	QA	Movie	What is the name of Actor in Hello Guru Prema Kosame?	हेलो गुरु प्रेमा कोसमे में अभिनेता का नाम क्या है?
+ast-241	QA	Movie	Who is the director of Fida Movie?	फिदा चलचित्र के निर्देशक कौन हैं?
+ast-242	QA	Current Affairs	Who is the President of India?	भारत के राष्ट्रपति कौन है?
+ast-243	QA	Current Affairs	Who is the President of United States Of America?	संयुक्त राज्य अमेरिका के राष्ट्रपति कौन हैं?
+ast-244	QA	Current Affairs	Who is the President of China?	चीन के राष्ट्रपति कौन हैं?
+ast-245	QA	Current Affairs	Who is the President of Canada?	कनाडा के राष्ट्रपति कौन हैं?
+ast-246	QA	Current Affairs	Who is the Prime Minister Of India?	भारत के प्रधान मंत्री कौन हैं?
+ast-247	QA	Current Affairs	Who is the Chief Minister Of Andhra Pradesh?	आंध्र प्रदेश के मुख्यमंत्री कौन हैं?
+ast-248	QA	Current Affairs	Who is the Chief Minister Of Telangana?	तेलंगाना के मुख्यमंत्री कौन हैं?
+ast-249	QA	Current Affairs	Who is the Chief Minister Of Tamil Nadu?	तमिलनाडु के मुख्यमंत्री कौन हैं?
+ast-250	QA	Current Affairs	Who is the Chief Minister Of Maharashtra?	महाराष्ट्र के मुख्यमंत्री कौन हैं?
+ast-251	QA	Current Affairs	What is the name of Minister of Home Affairs inIndia?	भारत में गृह मंत्री का नाम क्या है?
+ast-252	QA	Current Affairs	What is Parliament of India called?	भारत की संसद को क्या कहा जाता है?
+ast-253	QA	Current Affairs	Who is the first President Of India?	भारत के प्रथम राष्ट्रपति कौन है?
+ast-254	QA	Current Affairs	Who is the first Prime Minister Of India?	भारत के प्रथम प्रधानमंत्री कौन है?
+ast-255	QA	Current Affairs	Who is the India's first Woman President?	भारत की पहली महिला राष्ट्रपति कौन हैं?
+ast-256	QA	National Symbols	What is the National Tree of India?	भारत का राष्ट्रीय वृक्ष क्या है?
+ast-257	QA	National Symbols	What is the National Fruit of India?	भारत का राष्ट्रीय फल क्या है?
+ast-258	QA	National Symbols	What is the National Bird of India?	भारत का राष्ट्रीय चिड़िया क्या है?
+ast-259	QA	National Symbols	What is the National Animal of India?	भारत का राष्ट्रीय पशु क्या है?
+ast-260	QA	National Symbols	What is the National Flower of India?	भारत का राष्ट्रीय फूल क्या है?
+ast-261	QA	National Symbols	What is the National Monument of India?	भारत का राष्ट्रीय स्मारक क्या है?
+ast-262	QA	National Symbols	What is the National Aquatic Animal of India.	भारत का राष्ट्रीय जलीय पशु क्या है?
+ast-263	QA	National Symbols	What is the National River of India.	भारत की राष्ट्रीय नदी क्या है?
+ast-264	QA	National Symbols	What is the National Reptile of India.	भारत का राष्ट्रीय सरीसृप क्या है?
+ast-265	QA	Natural Resources	What are the 5 most important natural resources?	5 सबसे महत्वपूर्ण प्राकृतिक संसाधन कौन से हैं?
+ast-266	QA	Natural Resources	Why are natural resources important?	प्राकृतिक संसाधन क्यों महत्वपूर्ण हैं?
+ast-267	QA	Natural Resources	How can we protect natural resources?	हम प्राकृतिक संसाधनों की रक्षा कैसे कर सकते हैं?
+ast-268	QA	Natural Resources	What natural resources will run out first?	कौन से प्राकृतिक संसाधन पहले खत्म हो जाएंगे?
+ast-269	QA	Natural Resources	What are the objectives of natural resources?	प्राकृतिक संसाधनों के उद्देश्य क्या हैं?
+ast-270	QA	Pollution	How can we control water pollution?	हम जल प्रदूषण को कैसे नियंत्रित कर सकते हैं?
+ast-271	QA	Pollution	What are some solution to toxic dumping in our oceans?	हमारे महासागरों में जहरीली बाजार मूल्य गिराना का कोई घोल क्या है?
+ast-272	QA	Pollution	What's water pollution?	जल प्रदूषण क्या है?
+ast-273	QA	Pollution	What are some types of water pollution?	कुछ प्रकार के जल प्रदूषण क्या हैं?
+ast-274	QA	Pollution	How do we detect water pollution?	हम जल प्रदूषण का पता कैसे लगाते हैं?
+ast-275	QA	Pollution	What is acid rain and how does it develop?	अम्लीय वर्षा क्या है और यह कैसे विकसित होती है?
+ast-276	QA	Pollution	How does urbanization contribute to water pollution?	शहरीकरण जल प्रदूषण में कैसे योगदान देता है?
+ast-277	QA	Pollution	How can we prevent chemical pollution?	हम रासायनिक प्रदूषण को कैसे रोक सकते हैं?
+ast-278	QA	Pollution	Why do we need to protect the environment?	हमें पर्यावरण की रक्षा करने की आवश्यकता क्यों है?
+ast-279	QA	Pollution	Who is affected by pollution?	प्रदूषण से कौन प्रभावित है?
+ast-280	QA	Seven Wonders	Which is called the first wonder of the world?	विश्व का प्रथम आश्चर्य किसे कहा जाता है ?
+ast-281	QA	Seven Wonders	The Colosseum is located at? 	कालीज़ीयम कहाँ अवस्थित है ?
+ast-282	QA	Seven Wonders	Who built the Machu Picchu?	माचू पिचू का निर्माण किसने करवाया था?
+ast-283	QA	Seven Wonders	What civilization built the Chichen Itza?	चिचेन इट्ज़ा का निर्माण किस सभ्यता ने किया था?
+ast-284	QA	Seven Wonders	What is the oldest structure on the ancient list of the seven wonders?	सात अजूबों की प्राचीन सूची में सबसे पुरानी संरचना कौन सी है?
+ast-285	QA	Seven Wonders	Who built Taj Mahal?	ताजमहल किसने बनवाया था?
+ast-286	QA	Seven Wonders	The Great Wall of China is the longest man made stucture?	चीन की महान दीवार मानव निर्मित का सबसे लंबी संरचना है?
+ast-287	QA	Seven Wonders	 Who designed Statue of Christ - The Redeemer?	स्टैच्यू ऑफ क्राइस्ट - द रिडीमर को किसने बनवाया था?
+ast-288	QA	Seven Wonders	What was the statue of Zeus at Olympia made out of?	ओलंपिया में ज़ीउस की मूर्ति किससे बनी थी?
+ast-289	QA	Seven Wonders	Is Eiffel Tower part of seven wonders?	क्या एफिल टावर सात अजूबों का हिस्सा है?
+ast-290	Timer	time	Set a timer for 30 seconds.	30 सेकंड के लिए घड़ी अस्त सेट करें।
+ast-291	Timer	time	Reset the timer.	घड़ी फिर से कायम करें |
+ast-292	Timer	time	Pause the timer.	घड़ी ठहराव |
+ast-293	Timer	time	Set a 45 minute rice timer.	45 क्षण  का राइस घड़ी कायम करें।
+ast-294	Timer	time	Set another timer for 15 minutes.	15 क्षण   के लिए एक और घड़ी कायम करें।
+ast-295	Timer	time	How much time is left on the rice timer?	चावल टाइमर पर कितना समय बचा है?
+ast-296	Timer	time	Start the timer.	घड़ी  शुरू करें।
+ast-297	Timer	time	Wake me up at 04:00 AM.	मुझे सुबह 04:00 बजे जगा दो।
+ast-298	Timer	time	Off the Alarm.	अलार्म बंद करो ।
+ast-299	Timer	time	Alexa set a 30-minute sleep timer with lights.	एलेक्सा ने रोशनी के साथ 30 क्षण का नींद की घड़ी कायम  किया है।
+ast-300	Timer	time	Alexa, set up an alarm for every morning at 7AM.	एलेक्सा, हर सुबह 7 बजे अलार्म  कायम करें।
